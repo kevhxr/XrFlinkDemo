@@ -1,1 +1,5 @@
 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
+
+-- for StreamWordCount test, open cmd and type:
+nc localhost 7777
+then input any word
